@@ -1,0 +1,11 @@
+{
+  "name": "KeysLockDoors",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/SophisticaSean/LC-KeysLockDoors",
+  "description": "This mod makes allows keys to lock doors. Trap enemies, trap your friends!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-HookGenPatcher-0.0.4",
+    "Evaisa-LethalLib-0.1.3"
+  ]
+}
