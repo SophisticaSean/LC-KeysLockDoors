@@ -20,7 +20,7 @@ namespace KeysLockDoors
     {
         public const string ModGUID = "sophisticasean.keyslockdoors";
         public const string ModName = "KeysLockDoors";
-        public const string ModVersion = "0.1.0";
+        public const string ModVersion = "1.1.3";
 
         public static ManualLogSource logger;
 
@@ -44,7 +44,7 @@ namespace KeysLockDoors
                 }
             }
 
-            Logger.LogInfo("KeysLockDoors loaded cuh, final vers");
+            Logger.LogInfo("KeysLockDoors loaded and ready to go.");
         }
     }
 }
